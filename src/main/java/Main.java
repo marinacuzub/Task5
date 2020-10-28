@@ -27,5 +27,11 @@ public class Main {
     public void setB(int b) {
         this.b = b;
     }
+    int F= (int) 2.58f;
+// This is a constructor
+    public Main(int a, int b) {
+        this.a = a;
+        this.b = b;
 
+    }
 }
